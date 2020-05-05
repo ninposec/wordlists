@@ -1,0 +1,8 @@
+http://check2.collabxyz.net:80/check_ssrf
+http://check2.collabxyz.net:443/check_ssrf
+http://167.71.5.100:80/check_ssrf
+http://167.71.5.100:443/check_ssrf
+http://2806449508/check_ssrf
+http://2806449508:443/check_ssrf
+http://0xa7470564/check_ssrf
+http://0xa7470564:443/check_ssrf
